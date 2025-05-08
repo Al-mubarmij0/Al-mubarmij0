@@ -1,4 +1,4 @@
-Hi there,👋 I’m a Software Developer | Data Analyst | UI/UX Designer
+Hi there,👋 I’m a Software Developer | Software Engineer| Data Analyst | UI/UX Designer
 - 👀 I’m interested in web development, particularly with Laravel, as well as exploring new technologies and backend development.
 - 🌱 I’m currently learning Advanced Laravel.
 - 💞️ I’m looking to collaborate on any web development projects that can make a positive impact.
